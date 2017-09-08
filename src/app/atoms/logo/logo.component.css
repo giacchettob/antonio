@@ -1,0 +1,10 @@
+.logo {
+  width: 100%;
+  background: #394048;
+  text-align: center;
+}
+
+.logo img {
+  margin: 13px 0;
+  height: 48px;
+}
