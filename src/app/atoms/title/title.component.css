@@ -1,0 +1,14 @@
+.title {
+  margin-left: 10%;
+  display: inline-flex;
+  color: #002456;
+}
+
+.title-text {
+  margin-top: 4%;
+}
+
+.close-icon{
+  color: #fff;
+  margin-left: 150%;
+}

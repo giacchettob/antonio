@@ -1,3 +1,8 @@
 .side-box {
   background-color: #D7C04D;
 }
+
+.side-list {
+  width: 90%;
+  margin-left: 10%;
+}
